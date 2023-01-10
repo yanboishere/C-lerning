@@ -1,0 +1,3 @@
+/Users/yanbo/CLionProjects/C-lerning/cmake-build-debug/CMakeFiles/C_lerning.dir
+/Users/yanbo/CLionProjects/C-lerning/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yanbo/CLionProjects/C-lerning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
